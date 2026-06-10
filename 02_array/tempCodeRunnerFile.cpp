@@ -1,1 +1,1 @@
-minmax(arr,size);
+arr[i]arr[j]
